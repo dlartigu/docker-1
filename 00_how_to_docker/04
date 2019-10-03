@@ -1,0 +1,2 @@
+docker run hello-world
+#Download automatique mais sinon: docker pull hello-world#
